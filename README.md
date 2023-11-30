@@ -1,9 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benjamin Chew Jun Jie
+Hi There! My name is Faisal Abdulhakim Bakouban
 =============================================================================================================================================
 
 Student
 -------
 
+I am currently pursuing a CS software engineering undergraduate degree at UTM 
 
 * Academic History:
     - Manarat International schools [2006-2018]
