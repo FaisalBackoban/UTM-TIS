@@ -8,12 +8,12 @@ I am currently pursuing an undergraduate education in CS (software engineering) 
 
 * You can contact me at [abdulhakimkhaled@graduate.utm.my](mailto:abdulhakimkhaled@graduate.utm.my)
 
+
 * Academic History:
     - Manarat international Schools [2009-2018]
-
     - Dome International Schools [20018-2021]
-
     - University Technology Malaysia [2023-present]
+
 
 * Certification:
 
