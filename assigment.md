@@ -6,7 +6,7 @@ After The industrial Talk, we as a group where tasked with creating a poster tha
 
 
 >Poster
-![poster](https://github.com/jun9187/assignment1/assets/150773849/5f4b0359-a39a-4b40-9bb6-cebdad21b9c7](https://github.com/FaisalBackoban/UTM-TIS/blob/main/File%20List/poster.pdf)
+![poster](https://github.com/FaisalBackoban/UTM-TIS/blob/main/File%20List/poster.pdf)
 
 >Credit
 ![credit](https://github.com/jun9187/assignment1/assets/150773849/5f4e2672-a3d2-4ceb-83da-aa315aaa823a)
