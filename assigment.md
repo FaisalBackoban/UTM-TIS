@@ -14,6 +14,3 @@ After The industrial Talk, we as a group where tasked with creating a poster tha
 ## Reflection
 This interview allowed me to grasp the priorities of recruiters when it comes to hiring new IT professionals. It also gave me some understanding on the most valuable skills for a software engineer.
 
-### Courses
-
-[<img width="100" height="100" src="https://www.biia.com/wp-content/uploads/2015/04/Information-Technology-300.jpg">]([https://github.com/jun9187/TIS](https://github.com/FaisalBackoban/UTM-TIS/tree/main))  [Technology and Information System]([https://github.com/jun9187/TIS](https://github.com/FaisalBackoban/UTM-TIS/tree/main)https://github.com/FaisalBackoban/UTM-TIS/tree/main)
