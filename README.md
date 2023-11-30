@@ -1,4 +1,10 @@
-@@ -12,9 +12,14 @@ Hello there I am a student currently pursuing an undergraduate degree at UTM University in, CS (software engineering)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benjamin Chew Jun Jie
+=============================================================================================================================================
+
+Student
+-------
+
+
 * Academic History:
     - Manarat International schools [2006-2018]
     - Dome International Schools [2018-2021]
