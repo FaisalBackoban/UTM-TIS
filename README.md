@@ -14,6 +14,10 @@ I am currently pursuing an undergraduate education in CS (software engineering) 
     - Dome International Schools [20018-2021]
     - University Technology Malaysia [2023-present]
 
+* Experience:
+
+    - Web-based application development (silkmap.co) [2020-2021]
+    - Riyadh Rezoning Project [2022-2023]
 
 * Certification:
 
@@ -25,6 +29,3 @@ I am currently pursuing an undergraduate education in CS (software engineering) 
     - Data Analysis with Python Certification
     - Google Digital Marketing Certification
 
-### Badges
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFaisalBackoban=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
