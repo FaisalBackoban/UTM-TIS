@@ -12,8 +12,8 @@ After The industrial Talk, we as a group where tasked with creating a poster tha
 ![credit](https://github.com/jun9187/assignment1/assets/150773849/5f4e2672-a3d2-4ceb-83da-aa315aaa823a)
 
 ## Reflection
-After this talk, I found that jobs in ICT are important as they are solving issues related to IT technology. Such as advancing applications/website to increase customer satisfaction and improving cybersecurity. Jobs in ICT is crucial to changing the world to become more adaptable to new technologies and thus our society can become more developed globally.
+This interview allowed me to grasp the priorities of recruiters when it comes to hiring new IT professionals. It also gave me some understanding on the most valuable skills for a software engineer.
 
 ### Courses
 
-[<img width="100" height="100" src="https://www.biia.com/wp-content/uploads/2015/04/Information-Technology-300.jpg">](https://github.com/jun9187/TIS)  [Technology and Information System](https://github.com/jun9187/TIS)
+[<img width="100" height="100" src="https://www.biia.com/wp-content/uploads/2015/04/Information-Technology-300.jpg">]([https://github.com/jun9187/TIS](https://github.com/FaisalBackoban/UTM-TIS/tree/main))  [Technology and Information System]([https://github.com/jun9187/TIS](https://github.com/FaisalBackoban/UTM-TIS/tree/main)https://github.com/FaisalBackoban/UTM-TIS/tree/main)
