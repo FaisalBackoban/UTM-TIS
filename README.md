@@ -16,16 +16,11 @@ I am currently pursuing an undergraduate education in CS (software engineering) 
     - University Technology Malaysia [2023-present]
 
 * Certification:
+
     - Responsive Web Design Certification
-
     - JavaScript Algorithms and Data Structures Certification
-
     - Front End Development Libraries Certification
-
     - Data Visualization Certification
-
     - Scientific Computing with Python Certification
-
     - Data Analysis with Python Certification
-
     - Google Digital Marketing Certification
