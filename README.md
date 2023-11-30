@@ -4,7 +4,9 @@ Hi There! My name is Faisal Abdulhakim Bakouban
 Student
 -------
 
-I am currently pursuing a CS software engineering undergraduate degree at UTM 
+I am currently pursuing a CS software engineering undergraduate degree at UTM
+
+You can contact me at: abdulhakimkhaled@graduate.utm.my 
 
 * Academic History:
     - Manarat International schools [2006-2018]
@@ -20,7 +22,5 @@ I am currently pursuing a CS software engineering undergraduate degree at UTM
     - Data visualisation certification
     - scientific computing with Python certification
     - Data analysis with Python certification
-*  Interests:
-   - history and geography 
-   - AI integration and real-life applications
-   - Business and entrepreneurship 
+    - Google Digital Marketing certification
+
