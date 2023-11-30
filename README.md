@@ -23,12 +23,8 @@ I am currently pursuing an undergraduate education in CS (software engineering) 
     - Data Visualization Certification
     - Scientific Computing with Python Certification
     - Data Analysis with Python Certification
-
-* My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFaisalBackoban=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     - Google Digital Marketing Certification
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFaisalBackoban=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
